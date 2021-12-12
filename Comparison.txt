@@ -1,0 +1,13 @@
+In general-purpose programming languages, C++ is frequently used. You can use the language to encapsulate both high-level and low-level language elements. As a result, it is classified as an intermediate language. It's also utilized to create sophisticated systems that necessitate hardware-level coding.
+
+Python is an object-oriented programming language with a high level of abstraction. It comes with built-in data structures, as well as dynamic binding and typing, making it an excellent choice for rapid application development. Modules and packages are also supported by Python, allowing for system modularity and code reuse.
+
+The Key Differences 
+
+1. C++ code is pre-compiled, whereas Python code is run through an interpreter.
+
+2. Garbage Collection is supported by Python, although it is not supported by C++.
+
+3. Python is a simple language to learn, however C++ has a steep learning curve due to its many predefined syntaxes and structures.
+
+4. Rapid prototyping is achievable in Python due to the short size of the code, but it is not possible in C++ due to the greater code size.
