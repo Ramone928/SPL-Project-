@@ -4,10 +4,10 @@ Python is an object-oriented programming language with a high level of abstracti
 
 The Key Differences 
 
-1. C++ code is pre-compiled, whereas Python code is run through an interpreter.
+1. C++ is a compiled programming language. From the C++ source code, the C++ compiler generates object code, which is then run to produce the result. Python is a scripting language. Python code with the py extension does not need to be built. We can pass it directly to the Python interpreter and get the results.
 
-2. Garbage Collection is supported by Python, although it is not supported by C++.
+2. Memory management in C++ is done manually. C++ does not support automatic resource garbage collection. Python, on the other hand, has a garbage collection capability built in. Its memory management is managed by the operating system.
 
-3. Python is a simple language to learn, however C++ has a steep learning curve due to its many predefined syntaxes and structures.
+3. Data types in C++ are associated with names and checked at compile time. This decreases the chance of any runtime issues. The data types in Python are bound to values and checked at runtime. Because we don't catch problems at compile time, code may be more error-prone at runtime.
 
 4. Rapid prototyping is achievable in Python due to the short size of the code, but it is not possible in C++ due to the greater code size.
